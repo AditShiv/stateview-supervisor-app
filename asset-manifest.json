@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/stateview-supervisor-app/static/js/main.f58d4a14.js",
+    "main.js": "/stateview-supervisor-app/static/js/main.c6ea7b1a.js",
     "index.html": "/stateview-supervisor-app/index.html",
-    "main.f58d4a14.js.map": "/stateview-supervisor-app/static/js/main.f58d4a14.js.map"
+    "main.c6ea7b1a.js.map": "/stateview-supervisor-app/static/js/main.c6ea7b1a.js.map"
   },
   "entrypoints": [
-    "static/js/main.f58d4a14.js"
+    "static/js/main.c6ea7b1a.js"
   ]
 }
